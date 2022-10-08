@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
  * Manga Stats
  */
 @ApiModel(description = "Manga Stats")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-08T15:18:52.497326700+05:30[Asia/Calcutta]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-08T15:34:51.366952+05:30[Asia/Calcutta]")
 public class UsersTempDataInnerMangaStats {
   public static final String SERIALIZED_NAME_DAYS_READ = "days_read";
   @SerializedName(SERIALIZED_NAME_DAYS_READ)

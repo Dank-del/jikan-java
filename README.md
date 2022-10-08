@@ -2,7 +2,7 @@
 
 Jikan API
 - API version: 4.0.0
-  - Build date: 2022-10-08T15:18:52.497326700+05:30[Asia/Calcutta]
+  - Build date: 2022-10-08T15:34:51.366952+05:30[Asia/Calcutta]
 
 [Jikan](https://jikan.moe) is an **Unofficial** MyAnimeList API.
 It scrapes the website to satisfy the need for a complete API - which MyAnimeList lacks.
